@@ -14,6 +14,7 @@
 		1A042CD41E5DFE8200D66871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A042CD21E5DFE8200D66871 /* LaunchScreen.storyboard */; };
 		1A042CDF1E5DFE8200D66871 /* L6G52_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A042CDE1E5DFE8200D66871 /* L6G52_Tests.swift */; };
 		1A042CEA1E5DFE8200D66871 /* L6G52_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A042CE91E5DFE8200D66871 /* L6G52_UITests.swift */; };
+		1A042CF81E5E01D400D66871 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A042CF71E5E01D400D66871 /* View.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1A042CE51E5DFE8200D66871 /* L6G52_UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = L6G52_UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A042CE91E5DFE8200D66871 /* L6G52_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L6G52_UITests.swift; sourceTree = "<group>"; };
 		1A042CEB1E5DFE8200D66871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A042CF71E5E01D400D66871 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				1A042CC91E5DFE8200D66871 /* AppDelegate.swift */,
 				1A042CCB1E5DFE8200D66871 /* ViewController.swift */,
+				1A042CF71E5E01D400D66871 /* View.xib */,
 				1A042CCD1E5DFE8200D66871 /* Main.storyboard */,
 				1A042CD01E5DFE8200D66871 /* Assets.xcassets */,
 				1A042CD21E5DFE8200D66871 /* LaunchScreen.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A042CF81E5E01D400D66871 /* View.xib in Resources */,
 				1A042CD41E5DFE8200D66871 /* LaunchScreen.storyboard in Resources */,
 				1A042CD11E5DFE8200D66871 /* Assets.xcassets in Resources */,
 				1A042CCF1E5DFE8200D66871 /* Main.storyboard in Resources */,
